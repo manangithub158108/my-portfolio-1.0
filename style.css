@@ -1,0 +1,25 @@
+h1{
+    color : blue
+}
+p{
+    color: #f0f0f0;
+}
+.intro{
+    display: flex;
+    justify-content: space-around;
+    background-color: cyan;
+}
+.text{
+    background-color: mediumpurple;
+}
+.rotation{
+    background-color: mediumspringgreen;
+}
+.advice{
+    background-color: gold;
+    color: indigo;
+}
+.introduction{
+    background-color: lawngreen;
+    color: maroon;
+}
